@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SdhVr4Tr22W+myP1OlN8PSvigU2pVbSMLrow2IGj8g8=",
+  "Hash": "wfjm4PkpgmEciySLSA+r4WcUMmXml3ev6Hew4uZwc4Y=",
   "Source": "HelloWorldApp.web",
   "BasePath": "_content/HelloWorldApp.web",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Yalla's\\devopsdemo\\HelloworldApp\\HelloWorldApp.web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HelloWorldApp.web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Yalla's\\devopsdemo\\HelloworldApp\\HelloWorldApp.web\\wwwroot\\buildinfo.txt",
+      "SourceId": "HelloWorldApp.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yalla's\\devopsdemo\\HelloworldApp\\HelloWorldApp.web\\wwwroot\\",
+      "BasePath": "_content/HelloWorldApp.web",
+      "RelativePath": "buildinfo.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\buildinfo.txt"
     },
     {
       "Identity": "C:\\Users\\Yalla's\\devopsdemo\\HelloworldApp\\HelloWorldApp.web\\wwwroot\\css\\site.css",

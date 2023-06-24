@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\HelloWorldApp.web.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Yalla's\\devopsdemo\\HelloworldApp\\HelloWorldApp.web\\wwwroot\\buildinfo.txt",
+      "PackagePath": "staticwebassets\\buildinfo.txt"
+    },
+    {
       "Id": "C:\\Users\\Yalla's\\devopsdemo\\HelloworldApp\\HelloWorldApp.web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
